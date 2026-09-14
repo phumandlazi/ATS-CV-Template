@@ -1,0 +1,88 @@
+THABO MTHEMBU
+
+Johannesburg, Gauteng | +27 11 234 5678 | thabo.mthembu@email.com | linkedin.com/in/thabomthembu | github.com/thabomthembu
+
+_______________________________________________________________________________
+
+PROFESSIONAL SUMMARY
+
+Results-driven Software Developer with 5 years of experience in full-stack web development and cloud solutions. Proven track record of delivering scalable applications for leading South African enterprises. Proficient in Python, JavaScript, and AWS. Seeking Senior Developer role to drive digital transformation initiatives.
+
+_______________________________________________________________________________
+
+EXPERIENCE
+
+Senior Software Developer
+Investec South Africa | Johannesburg, Gauteng | January 2022 – Present
+
+• Architected and deployed microservices-based banking application serving 50,000+ users, improving transaction processing speed by 40%
+• Led team of 4 junior developers in redesigning legacy payment processing system, reducing deployment time by 60%
+• Implemented automated testing framework using Jest and Cypress, increasing code coverage from 45% to 92%
+• Optimized database queries resulting in 35% improvement in API response times across production systems
+
+Software Developer
+Nedbank Group | Pretoria, Gauteng | June 2019 – December 2021
+
+• Developed RESTful APIs and frontend interfaces for customer onboarding portal using Python Flask and React
+• Migrated existing applications to AWS cloud infrastructure, reducing hosting costs by 30% annually
+• Collaborated with UX team to implement accessibility standards, achieving WCAG 2.1 AA compliance
+• Mentored 3 junior developers on best practices in code documentation and version control using Git
+
+Junior Web Developer
+Altron Bytes People Solutions | Cape Town, Western Cape | January 2018 – May 2019
+
+• Built responsive e-commerce platform using HTML5, CSS3, and JavaScript handling R2.5M in annual transactions
+• Implemented automated invoice generation system using Python, saving finance team 10 hours per week
+• Troubleshot and resolved critical production bugs within SLA requirements
+• Participated in Agile sprints with 2-week delivery cycles
+
+_______________________________________________________________________________
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+University of Witwatersrand | Johannesburg, Gauteng | 2017
+
+National Diploma in Computer Science
+City Colleges Johannesburg | Johannesburg, Gauteng | 2015
+
+AWS Certified Solutions Architect Associate | Amazon Web Services | 2021
+
+Google Cloud Associate Cloud Engineer | Google Cloud | 2022
+
+_______________________________________________________________________________
+
+SKILLS
+
+Technical Skills: Python, JavaScript, React, Node.js, SQL, MongoDB, Docker, AWS, Azure
+
+Programming Languages: Python, JavaScript, Java, HTML5, CSS3, PHP
+
+Tools & Platforms: AWS, Google Cloud Platform, Docker, Jenkins, GitHub, Jira, VS Code
+
+Soft Skills: Team Leadership, Agile Methodology, Problem-Solving, Communication, Mentoring
+
+_______________________________________________________________________________
+
+CERTIFICATIONS & LICENSES
+
+• AWS Certified Solutions Architect Associate - Amazon Web Services | August 2021
+• Google Cloud Associate Cloud Engineer - Google Cloud | March 2022
+• SETA ICT Skills Development Grant Recipient - ISETT SETA | 2018
+
+_______________________________________________________________________________
+
+LANGUAGES
+
+• English: Fluent
+• Zulu: Native Speaker
+• Afrikaans: Intermediate
+
+_______________________________________________________________________________
+
+ADDITIONAL INFORMATION
+
+• Active member of Dev Community South Africa meetup group
+• Volunteer Code Mentor for Black Minds Matter Tech Academy
+• Speaker at 2023 PyData Johannesburg Conference on "Scaling Python Applications"
+• Published technical blog posts on Medium with 5,000+ monthly readers

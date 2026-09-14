@@ -1,0 +1,69 @@
+[YOUR NAME]
+
+[City, State] | [Phone Number] | [Email Address] | [LinkedIn Profile] | [Portfolio/GitHub]
+
+_______________________________________________________________________________
+
+PROFESSIONAL SUMMARY
+
+Brief 2-3 line summary of your professional background, key expertise, and career objectives. Use keywords relevant to your target role.
+
+_______________________________________________________________________________
+
+EXPERIENCE
+
+Job Title
+Company Name | City, State | Start Date – End Date
+
+• Achieved [specific quantifiable result] by implementing [action/skill]
+• Led [project/initiative] that resulted in [measurable outcome]
+• Developed [key responsibility] using [relevant technologies/skills]
+• Improved [metric] by [percentage/amount] through [specific action]
+
+Job Title
+Company Name | City, State | Start Date – End Date
+
+• [Key achievement with quantifiable results]
+• [Relevant responsibility aligned with job description]
+• [Technical skill or tool implementation]
+
+_______________________________________________________________________________
+
+EDUCATION
+
+Degree Name in Field of Study
+University/Institution Name | City, State | Graduation Date
+
+Additional Certifications or Courses | Issuing Organization | Date
+
+_______________________________________________________________________________
+
+SKILLS
+
+Technical Skills: Skill 1, Skill 2, Skill 3, Skill 4, Skill 5
+
+Programming Languages: Language 1, Language 2, Language 3
+
+Tools & Platforms: Tool 1, Tool 2, Tool 3, Tool 4
+
+Soft Skills: Project Management, Leadership, Communication, Problem-Solving
+
+_______________________________________________________________________________
+
+CERTIFICATIONS & LICENSES
+
+• Certification Name - Issuing Organization | Date
+• License Name - Issuing Authority | Date
+
+_______________________________________________________________________________
+
+LANGUAGES
+
+• Language: Proficiency Level
+• Language: Proficiency Level
+
+_______________________________________________________________________________
+
+ADDITIONAL INFORMATION
+
+Optional: Volunteer work, publications, awards, or other relevant information
